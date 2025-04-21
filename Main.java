@@ -7,5 +7,7 @@ public class Main{
         System.out.println(new Date());
         System.out.println("End of program.");
         System.out.println("Program completed successfully.");
+        System.out.println("Added one more line for testing.");
+        System.out.println("This is a new line added for testing purposes.");
     }
 }
