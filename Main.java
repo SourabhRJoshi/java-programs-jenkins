@@ -6,5 +6,6 @@ public class Main{
         System.out.println("This is a test.");
         System.out.println(new Date());
         System.out.println("End of program.");
+        System.out.println("Program completed successfully.");
     }
 }
